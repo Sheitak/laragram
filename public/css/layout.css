@@ -1,0 +1,11 @@
+.logo-insta {
+    border-right: solid 1px #333333;
+}
+.avatar {
+    max-width: 200px;
+}
+.welcome-logo {
+    width: 150px;
+    margin-right: 9rem;
+    color: #e11a15;
+}

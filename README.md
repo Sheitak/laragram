@@ -1,4 +1,4 @@
-## LaraGram
+## Laragram
 
 First Version of Laragram. It's an Instagram clone developed with the Laravel framework, PHP and Vue.Js.
 It allows a following system, display of users, publication create and display of posts.
